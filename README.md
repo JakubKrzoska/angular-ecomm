@@ -1,3 +1,4 @@
+
 # 🛒 Angular E-Commerce Store UI
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
@@ -16,6 +17,8 @@ This project is a clean, modern UI for an e-commerce shop. It was built as a lea
 * **Modern Design:** Utilizing utility-first CSS for a professional finish.
 
 ## 📷 Screenshots
+<img width="1919" height="837" alt="cartpage" src="https://github.com/user-attachments/assets/0e8f6a47-1342-4f8d-bf6c-75347aa4dfbe" />
+<img width="1918" height="927" alt="homepage" src="https://github.com/user-attachments/assets/d38e0de3-fff4-4f7f-ab0c-38c7932c70f6" />
 
 ## 🛠️ Technologies Used
 * **Framework:** Angular
