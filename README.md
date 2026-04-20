@@ -1,59 +1,37 @@
-# AngularEcomm
+# 🛒 Angular E-Commerce Store UI
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.24.
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-## Development server
+> A static frontend implementation of an e-commerce storefront, created to practice Angular component architecture and responsive design.
 
-To start a local development server, run:
+## 📝 Project Description
+This project is a clean, modern UI for an e-commerce shop. It was built as a learning exercise to master Angular's core concepts, including component nesting, data binding, and layout management. To focus on the UI/UX, the product data is managed statically within the application.
 
-```bash
-ng serve
-```
+## ✨ Key Features
+* **Product Catalog:** A visually appealing grid layout showcasing items.
+* **Static Data Binding:** Practice using Angular templates to render predefined data structures.
+* **Responsive Layout:** Designed to look good on various screen sizes.
+* **Modern Design:** Utilizing utility-first CSS for a professional finish.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 📷 Screenshots
 
-## Code scaffolding
+## 🛠️ Technologies Used
+* **Framework:** Angular
+* **Language:** TypeScript
+* **Styling:** Tailwind CSS / SCSS
+* **Build Tool:** Angular CLI
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🧠 What I Learned
+* **Component-Based Architecture:** Breaking down a complex UI into small, manageable pieces.
+* **Template Syntax:** Using `*ngFor` and property binding to display static data arrays.
+* **Tailwind Integration:** Learning how to quickly style Angular components using utility classes.
+* **Folder Structure:** Organizing an Angular project for better maintainability.
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 🚀 How to Run Locally
+1. Clone the repository.
+2. Navigate to the project folder: `cd angular-ecomm`.
+3. Install dependencies: `npm install`.
+4. Run the development server: `ng serve`.
+5. Open `http://localhost:4200` in your browser.
